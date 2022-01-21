@@ -7,3 +7,4 @@ exit()
 
 
 endpoint: url para extraer o capturar datos
+ramas de git: tipos de versiones de proyecto
