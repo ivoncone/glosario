@@ -1,0 +1,8 @@
+diploy: subir una pagina a internet
+backed: todo el codigo detras de lo que se ve en la pagina
+frontend: todo el diseño que ve el usuario
+exit()
+
+
+
+
