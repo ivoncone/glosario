@@ -6,3 +6,4 @@ exit()
 
 
 
+endpoint: url para extraer o capturar datos
