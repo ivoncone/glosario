@@ -1,10 +1,29 @@
-diploy: subir una pagina a internet
+deploy: subir una pagina a internet
+
 backed: todo el codigo detras de lo que se ve en la pagina
+
 frontend: todo el diseño que ve el usuario
-exit()
+
+Dominio: es un nombre único que identifica a una subárea de internet.
+
+Pagina estática: aquellas paginas web que no actualizan sus información de forma manual.
+
+Hosting: es el servicio que provee a los usuarios de Internet un sistema para poder almacenar información, imágenes, vídeo, o cualquier contenido accesible vía web. 
+
+Buffer: es un espacio en un disco o en un instrumento digital reservado para el almacenamiento temporal de información digital, mientras que está esperando ser procesada.
 
 
+Dns: es un servicio que permite la actualización en tiempo real de la información sobre nombres de dominio situada en un servidor de nombres. 
 
 
-endpoint: url para extraer o capturar datos
-ramas de git: tipos de versiones de proyecto
+endpoint: url para extraer o capturar datos.
+
+ramas de git: tipos de versiones de proyecto.
+
+Git: controlador de versiones.
+
+Repositorio: carpeta del proyecto.
+
+Api: es una coneccion entre computadoras o entre programas de computadora.
+
+
